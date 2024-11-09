@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "ServiceBus.Queue.Trigger.ImageResize": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7026",
+      "launchBrowser": false
+    }
+  }
+}

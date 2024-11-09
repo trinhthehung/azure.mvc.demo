@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Azure.Demo", "MVC.Azure.Demo\MVC.Azure.Demo.csproj", "{11E35966-4041-42A8-84E7-D6E01A981043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBus.Queue.Trigger.ImageResize", "ServiceBus.Queue.Trigger.ImageResize\ServiceBus.Queue.Trigger.ImageResize.csproj", "{8BB0674F-D95B-486C-A81B-3318EFD10A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E35966-4041-42A8-84E7-D6E01A981043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E35966-4041-42A8-84E7-D6E01A981043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E35966-4041-42A8-84E7-D6E01A981043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E35966-4041-42A8-84E7-D6E01A981043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB0674F-D95B-486C-A81B-3318EFD10A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB0674F-D95B-486C-A81B-3318EFD10A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB0674F-D95B-486C-A81B-3318EFD10A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB0674F-D95B-486C-A81B-3318EFD10A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
